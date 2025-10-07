@@ -45,5 +45,5 @@
 - Understood which ports/protocols are needed for secure access  
 
 ---
-
+ 
 #AWS #EC2 #SecurityGroups #CloudSecurity #90DaysOfDevOps
